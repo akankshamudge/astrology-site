@@ -1,3 +1,3 @@
 # Astrology Site
 
-![image](https://user-images.githubusercontent.com/74592152/214362026-e19c33cc-ba7d-4feb-8f95-6a7e31ee57e0.png)
+![Astrology Site](https://user-images.githubusercontent.com/74592152/214362243-1d7042eb-5f53-484d-95d5-fe6130656d57.jpeg)
